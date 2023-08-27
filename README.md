@@ -4,7 +4,7 @@ MIRROR is a refactoring recommendation tool, to recommend refactoring by employi
 # Setup
 1 The plug-in is available for the Eclipse Integrated Development Environment (IDE).
 
-2 Installation method: Download the source program from https://github.com/Ganguan/MIRROE, import it to Eclipse, and restart Eclipse.
+2 Installation method: Download the source program, import it to Eclipse, and restart Eclipse.
 
 3 Configuration instructions:(1)need to download the jar package including the asm-5.0.4(https://mvnrepository.com/artifact/org.ow2.asm/asm/5.0.4), jxl-2.6.12(https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl/2.6.12) and the recoder(http://www.java2s.com/Code/Jar/r/Downloadrecorder400jar.htm). (2)use Iplasma(https://github.com/aquaraga/iPlasma) and Refactoring Miner to collect target set.
 
