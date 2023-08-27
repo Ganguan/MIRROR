@@ -1,7 +1,7 @@
 # MIRROR
 MIRROR is a refactoring recommendation tool, to recommend refactoring by employing a multi-objective optimization across three objectives: (i) improving quality, (ii) removing code smell, and (iii) maximizing the similarity to refactoring history. We envision MIRROR to be used in at least two usage scenarios. First, we claim that MIRROR is especially beneficial in providing recommendations for those attributes with several sub-attributes among which correlations can be quantified. Second, owing to the adoption of numerous types of refactoring, MIRROR is particularly appropriate to recommend various types of refactoring.
 
-MIRROR is a prototyping tool designed to demonstrate its basic functionality and potential value, and to validate the feasibility and acceptability of our ideas. With MIRROR, we hope to provide a new way to address the importance of neglected subattributes and their dependencies. Because MIRROR is still in the prototype stage, there may be some limitations and incomplete features. Our goal is to continuously optimize and refine it through user feedback and further improvements to be able to better understand potential needs and directions for improvement.
+MIRROR is a prototyping tool designed to demonstrate its basic functionality and potential value and to validate the feasibility and acceptability of our ideas. With MIRROR, we hope to provide a new way to address the importance of neglected subattributes and their dependencies. Because MIRROR is still in the prototype stage, there may be some limitations and incomplete features. 
 
 # Setup
 1 The plug-in is available for the Eclipse Integrated Development Environment (IDE).
