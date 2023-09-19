@@ -11,3 +11,8 @@ MIRROR is a prototyping tool designed to demonstrate its basic functionality and
 3 Configuration instructions: 1)need to download the jar package including the asm-5.0.4(https://mvnrepository.com/artifact/org.ow2.asm/asm/5.0.4), jxl-2.6.12(https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl/2.6.12) and the recorder (http://www.java2s.com/Code/Jar/r/Downloadrecorder400jar.htm). 2)use Iplasma(https://github.com/aquaraga/iPlasma) and Refactoring Miner to collect the target set.
 
 4 Project: GanttProject-V1.10.2(https://github.com/bardsoftware/ganttproject), Rhino-V.1.7R1(https://github.com/mozilla/rhino/tree/Rhino1_7R1_BRANCH), JHotDraw-V6.1(https://github.com/wrandelshofer/jhotdraw/tree/jhotdraw60b1-release), ApacheAnt-V1.8.2(https://github.com/apache/ant/tree/rel/1.8.2), Xerces-J-V2.7.0(https://github.com/apache/xerces2-j/tree/Xerces-J_2_7_0) and JFreeChart-V.1.5.2(https://github.com/jfree/jfreechart/tree/v1.5.2).
+
+# Experimental result
+For the experimental results, we first calculate the average of the number of results for each of the 10 experiments.  Next, all the results of the 10 experiments are unified into a table, and the number of occurrences of each reconstruction result is sorted in descending order, from the most to the least.  Then, a corresponding number of refactoring results are selected from the sorted results in descending order until the number of selected results is equal to the previously calculated average.
+
+
