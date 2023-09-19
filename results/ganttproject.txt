@@ -1,0 +1,127 @@
+﻿Refactoring Result :
+
+RefactoringInfo 1	"Make Method Non Static" applied at class ShapePaint to method createTexture(int,int,int[],java.awt.Color,java.awt.Color)"	
+			
+RefactoringInfo 2	"Make Method Non Final" applied at class GanttXMLOpen\DefaultTagHandler to method determineColor(java.lang.String)"		
+			
+RefactoringInfo 3	"Increase Method Visibility" applied at class PDFExportProcessor to method exportGanttChart(net.sourceforge.ganttproject.export.ProjectExportData) from protected to package"		
+			
+RefactoringInfo 4	"Make Class Final" applied to class GanttXMLFileFilter"		
+			
+RefactoringInfo 5	"Decrease Method Visibility" applied at class FindPossibleDependeesAlgorithm to method run(net.sourceforge.ganttproject.task.Task) from package to protected"		
+			
+RefactoringInfo 6	"Decrease Method Visibility" applied at class RolloverAction to method getIconOnMouseOver() from package to protected"		
+			
+RefactoringInfo 7	"Decrease Method Visibility" applied at class MutableTaskDependencyCollection to method clear() from package to protected"		
+			
+RefactoringInfo 8	"Move Field Up" applied to field tfName from ProjectSettingsPanel to GeneralOptionPanel"		
+			
+RefactoringInfo 9	"Move Method Down" applied to method isInfoable() from ProjectExportProcessor to PDFExportProcessor"		
+			
+RefactoringInfo 10	"Move Method Down" applied to method toString() from ConstraintImpl to FinishFinishConstraintImpl"		
+			
+RefactoringInfo 11	"Make Class Abstract" applied to class AlgorithmBase"		
+			
+RefactoringInfo 12	"Decrease Field Visibility" applied at class AdjustTaskBoundsAlgorithm to field myModifiedTasks from private to package"		
+			
+RefactoringInfo 13	"Make Method Static" applied at class WizardImpl\OkAction to method actionPerformed(java.awt.event.ActionEvent)"		
+			
+RefactoringInfo 14	"Decrease Method Visibility" applied at class GanttXMLSaver to method emptyComment(javax.xml.transform.sax.TransformerHandler) from private to package"		
+			
+RefactoringInfo 15	"Decrease Method Visibility" applied at class ResourceAssignmentMutator to method commit() from package to protected"		
+			
+RefactoringInfo 16	"Make Method Non Static" applied at class GanttPDFExport to method getHexaColor(java.awt.Color)"		
+			
+RefactoringInfo 17	"Make Class Abstract" applied to class ProjectExportData"		
+			
+RefactoringInfo 18	"Decrease Method Visibility" applied at class ResourceAction to method getManager() from protected to public"		
+			
+RefactoringInfo 19	"Make Method Final" applied at class ColorConvertion to method getColor(java.awt.Color)"		
+			
+RefactoringInfo 20	"Make Method Non Static" applied at class GanttCSVFilter to method getExtension(java.io.File)"		
+			
+RefactoringInfo 21	"Increase Field Visibility" applied at class GanttGraphicArea to field date,olddate from public to protected"		
+			
+RefactoringInfo 22	"Decrease Field Visibility" applied at class RolePersistentID to field ROLESET_DELIMITER from private to package"		
+			
+RefactoringInfo 23	"Increase Method Visibility" applied at class ChartUIConfiguration to method getSpanningHeaderHeight() from public to protected"		
+			
+RefactoringInfo 24	"Make Method Static" applied at class WelcomeSettingsPanel to method applyChanges(boolean)"		
+			
+RefactoringInfo 25	"Make Class Concrete" applied to class ResourceAction"		
+			
+RefactoringInfo 26	"Make Method Final" applied at class FontRecord to method getTTFFile()"		
+			
+RefactoringInfo 27	"Increase Field Visibility" applied at class GregorianTimeUnitStack\TimeFrameImpl\UnitInfo to field myRoundedCount from package to private"		
+			
+RefactoringInfo 28	"Decrease Method Visibility" applied at class GanttResourcePanel\GanttTableModel to method GanttTableModel(net.sourceforge.ganttproject.language.GanttLanguage) from package to protected"		
+			
+RefactoringInfo 29	"Make Field Final" applied at class TaskDependency to ParameterDeclaration constraint [in method setConstraint(net.sourceforge.ganttproject.task.dependency.TaskDependencyConstraint)]"		
+			
+RefactoringInfo 30	"Make Class Non Final" applied to class TaskManagerImpl\FacadeImpl"		
+			
+RefactoringInfo 31	"Decrease Method Visibility" applied at class EventDispatcher to method fireDependencyAdded(net.sourceforge.ganttproject.task.dependency.TaskDependency) from package to protected"		
+			
+RefactoringInfo 32	"Decrease Method Visibility" applied at class ResourceTagHandler to method getResourceManager() from private to package"		
+			
+RefactoringInfo 33	"Move Method Up" applied to method exportResourceChart(net.sourceforge.ganttproject.export.ProjectExportData) from PDFExportProcessor to ProjectExportProcessor"		
+			
+RefactoringInfo 34	"Move Field Up" applied to field myStylesheet from PDFExportData to ProjectExportData"		
+			
+RefactoringInfo 35	"Make Field Final" applied at class AboutPanel to LocalVariableDeclaration bHomePage [in method AboutPanel(net.sourceforge.ganttproject.GanttProject)]"		
+			
+RefactoringInfo 36	"Make Class Concrete" applied to class CommonPanel"		
+			
+RefactoringInfo 37	"Make Class Abstract" applied to class ConstraintImpl"		
+			
+RefactoringInfo 38	"Move Method Up" applied to method isInfoable() from PDFExportProcessor to ProjectExportProcessor"		
+			
+RefactoringInfo 39	"Decrease Method Visibility" applied at class GregorianTimeUnitStack\TimeFrameImpl to method TimeFrameImpl(java.util.Date,net.sourceforge.ganttproject.time.TimeUnit,net.sourceforge.ganttproject.time.TimeUnit) from package to protected"		
+			
+RefactoringInfo 40	"Increase Method Visibility" applied at class GanttPDFExport to method convert2PDF(java.lang.StringBuffer,java.io.File,java.lang.String) from public to protected"		
+			
+RefactoringInfo 41	"Make Method Final" applied at class FileDocument to method getOutputStream()"		
+			
+RefactoringInfo 42	"Decrease Method Visibility" applied at class MutableTaskDependencyCollection to method createDependency(net.sourceforge.ganttproject.task.Task,net.sourceforge.ganttproject.task.Task) from package to protected"		
+			
+RefactoringInfo 43	"Move Field Up" applied to field taDescr from ProjectSettingsPanel to GeneralOptionPanel"		
+			
+RefactoringInfo 44	"Make Method Non Static" applied at class GanttTXTFileFilter to method getExtension(java.io.File)"		
+			
+RefactoringInfo 45	"Make Class Final" applied to class TimeUnitGraph"		
+			
+RefactoringInfo 46	"Remove Field" applied at class ResourceLoadGraphicArea to field drawdepend"		
+			
+RefactoringInfo 47	"Increase Field Visibility" applied at class ResourcesTableModel to field columnNames from package to private"		
+			
+RefactoringInfo 48	"Make Field Final" applied at class GanttXMLSaver to LocalVariableDeclaration element [in method _save(java.io.OutputStreamWriter,java.lang.String,boolean)]"		
+			
+RefactoringInfo 49	"Remove Method" applied at class TaskDependencyCollectionImpl to method getDependencies()"		
+			
+RefactoringInfo 50	"Decrease Method Visibility" applied at class TaskMutator to method commit() from package to protected"		
+			
+RefactoringInfo 51	"Decrease Method Visibility" applied at class DependencyTableModel to method updateDependency(java.lang.Object,int,int) from private to package"		
+			
+RefactoringInfo 52	"Make Method Non Static" applied at class GanttPDFExport to method getTransformerFactory()"		
+			
+RefactoringInfo 53	"Make Field Non Static" applied at class GanttHTMLExport to field language"		
+			
+RefactoringInfo 54	"Increase Method Visibility" applied at class AboutAuthorPanel\AuthorsInfo to method getName() from public to protected"		
+			
+RefactoringInfo 55	"Increase Field Visibility" applied at class RolesSettingsPanel to field myRolesModel from package to private"		
+			
+RefactoringInfo 56	"Make Method Final" applied at class AdjustTaskBoundsAlgorithm to method modifyTaskEnd(net.sourceforge.ganttproject.task.Task,net.sourceforge.ganttproject.GanttCalendar)"		
+			
+RefactoringInfo 57	"Make Field Static" applied at class TaskHierarchyItem to field myFirstNestedItem"		
+			
+RefactoringInfo 58	"Make Method Static" applied at class ResourceTagHandler to method endElement(java.lang.String,java.lang.String,java.lang.String)"		
+			
+RefactoringInfo 59	"Make Field Non Final" applied at class TaskHierarchyEvent to FieldDeclaration myNewContainer"		
+			
+RefactoringInfo 60	"Make Class Concrete" applied to class AbstractDocument"		
+			
+-----------------------------------------------
+
+-----------------------------------------------
+
+Finished!
