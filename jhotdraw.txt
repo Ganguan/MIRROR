@@ -1,0 +1,60 @@
+Refactoring Result :
+
+RefactoringInfo 1	 "Make Method Non Final" applied at class SelectionTool to method setDelegateTool(org.jhotdraw.framework.Tool)
+	
+RefactoringInfo 2	 "Decrease Method Visibility" applied at class BorderDecorator to method initialize() from protected to public
+	
+RefactoringInfo 3	 "Make Field Static" applied at class InsertIntoDrawingVisitor to field myInsertedFigures
+	
+RefactoringInfo 4	 "Remove Method" applied at class StorableInput to method readLong()
+	
+RefactoringInfo 5	 "Decrease Method Visibility" applied at class UngroupCommand to method createUndoActivity() from protected to public
+	
+RefactoringInfo 6	" ""Make Field Final"" applied at class SelectAreaTracker to ParameterDeclaration x1 [in method rubberBand(int,int,int,int)]"
+	
+RefactoringInfo 7	 "Make Class Concrete" applied to class AbstractHandle
+	
+RefactoringInfo 8	 "Move Field Down" applied to field fLocator from NullHandle to GroupHandle
+	
+RefactoringInfo 9	 "Decrease Method Visibility" applied at class AbstractConnector to method findPoint(org.jhotdraw.framework.ConnectionFigure) from protected to public
+	
+RefactoringInfo 10	 "Increase Field Visibility" applied at class DisposableResourceManagerFactory to field holderPrototype from protected to package
+	
+RefactoringInfo 11	" ""Increase Method Visibility"" applied at class Bounds to method includeLine(java.awt.geom.Point2D,java.awt.geom.Point2D) from public to protected"
+	
+RefactoringInfo 12	 "Move Field Up" applied to field desktop from CTXWindowMenu to CTXCommandMenu
+	
+RefactoringInfo 13	 "Decrease Method Visibility" applied at class PolygonScaleHandle\UndoActivity to method resetPolygon() from protected to public
+	
+RefactoringInfo 14	 "Make Class Non Final" applied to class FigureEnumerator
+	
+RefactoringInfo 15	" ""Move Method Up"" applied to method createHandleTracker(org.jhotdraw.framework.DrawingView,org.jhotdraw.framework.Handle) from SelectionTool to AbstractTool"
+	
+RefactoringInfo 16	 "Move Method Down" applied to method findStart(org.jhotdraw.framework.ConnectionFigure) from ChopBoxConnector to ChopDiamondConnector
+	
+RefactoringInfo 17	 "Make Class Abstract" applied to class SplitPaneDrawApplication
+	
+RefactoringInfo 18	 "Increase Field Visibility" applied at class HTMLTextAreaFigure to field ESCAPE_CHAR from public to protected
+	
+RefactoringInfo 19	 "Make Class Final" applied to class Helper
+	
+RefactoringInfo 20	 "Make Field Non Static" applied at class AbstractConnector to field serialVersionUID
+	
+RefactoringInfo 21	" ""Make Field Final"" applied at class MySelectionTool to ParameterDeclaration y [in method mouseDown(java.awt.event.MouseEvent,int,int)]"
+	
+RefactoringInfo 22	 "Make Field Final" applied at class DrawingChangeListener to ParameterDeclaration e [in method drawingInvalidated(org.jhotdraw.framework.DrawingChangeEvent)]
+	
+RefactoringInfo 23	 "Make Method Static" applied at class UndoManager to method clearStack(java.util.List)
+	
+RefactoringInfo 24	 "Make Field Non Final" applied at class StandardDrawingView to FieldDeclaration SCROLL_OFFSET
+	
+RefactoringInfo 25	 "Make Field Non Static" applied at class AnimationDecorator to field serialVersionUID
+	
+RefactoringInfo 26	 "Move Method Down" applied to method createDesktop() from MDI_DrawApplication to JavaDrawApp
+	
+				
+-----------------------------------------------
+
+-----------------------------------------------
+
+Finished!
