@@ -1,0 +1,113 @@
+Refactoring Result :
+
+RefactoringInfo 1	 "Increase Method Visibility" applied at class AbstractCellEditor to method fireEditingStopped() from protected to package	
+		
+RefactoringInfo 2	 "Decrease Method Visibility" applied at class TokenStream to method readXmlComment() from private to package	
+		
+RefactoringInfo 3	 "Remove Field" applied at class Arguments to field serialVersionUID	
+		
+RefactoringInfo 4	 "Move Method Down" applied to method getSymbolTable() from Node\Scope to ScriptOrFnNode	
+		
+RefactoringInfo 5	 "Make Field Final" applied at class NativeNumber to ParameterDeclaration scope [in method execIdCall]	
+		
+RefactoringInfo 6	 "Make Method Non Static" applied at class Node to method propToString(int)	
+		
+RefactoringInfo 7	 "Increase Field Visibility" applied at class BodyCodegen\FinallyReturnPoint to field tableLabel from public to protected	
+		
+RefactoringInfo 8	 "Remove Field" applied at class NativeObject to field serialVersionUID	
+		
+RefactoringInfo 9	 "Increase Field Visibility" applied at class Delegator to field obj from protected to package
+		
+RefactoringInfo 10	 "Decrease Method Visibility" applied at class IRFactory to method createLeaf(int) from package to protected"	
+		
+RefactoringInfo 11	 "Remove Method" applied at class Dim to method dispose()	
+		
+RefactoringInfo 12	 "Move Method Down" applied to method decompile(int,int) from NativeJavaMethod to FieldAndMethods	
+		
+RefactoringInfo 13	 "Decrease Field Visibility" applied at class ClassCompiler to field targetExtends from private to package	
+		
+RefactoringInfo 14	 "Make Field Final" applied at class ounterTest to LocalVariableDeclaration scope [in method main(java.lang.String[])]	
+		
+RefactoringInfo 15	 "Make Method Final"" applied at class Block to method runFlowAnalyzes(org.mozilla.javascript.optimizer.OptFunctionNode,org.mozilla.javascript.Node[])"	
+		
+RefactoringInfo 16	 "Make Method Non Final" applied at class NodeTransformer to method transform(org.mozilla.javascript.ScriptOrFnNode)	
+		
+RefactoringInfo 17	 "Make Method Static" applied at class ConsoleTextArea to method keyReleased(java.awt.event.KeyEvent)	
+		
+RefactoringInfo 18	 "Make Class Concrete" applied to class RhinoException	
+		
+RefactoringInfo 19	 "Decrease Method Visibility" applied at class NativeScript to method compile(org.mozilla.javascript.Context,java.lang.String) from private to package	
+		
+RefactoringInfo 20	 "Move Method Up" applied to method getErrorObject() from EcmaError to RhinoException	
+		
+RefactoringInfo 21	 "Make Method Non Static" applied at class Optimizer to method buildStatementList_r(org.mozilla.javascript.Node,org.mozilla.javascript.ObjArray)	
+		
+RefactoringInfo 22	 "Make Class Final" applied to class ByteCode	
+		
+RefactoringInfo 23	 "Move Method Up" applied to method getSourceName() from EcmaError to RhinoException	
+		
+RefactoringInfo 24	 "Decrease Method Visibility" applied at class Block to method Block(int,int) from package to protected	
+		
+RefactoringInfo 25	 "Make Method Static" applied at class Main to method setOptimizationLevel(int)	
+		
+RefactoringInfo 26	 "Remove Field" applied at class NativeScript to field serialVersionUID	
+		
+RefactoringInfo 27	 "Remove Method" applied at class ObjArray to method clear()	
+		
+RefactoringInfo 28	 "Decrease Method Visibility" applied at class Arguments to method findInstanceIdInfo(java.lang.String) from protected to public	
+		
+RefactoringInfo 29	 "Move Method Up" applied to method getClassName() from NativeDate to IdScriptableObject"	
+		
+RefactoringInfo 30	 "Make Field Final" applied at class RhinoException to ParameterDeclaration lineSource [in method recordErrorOrigin(java.lang.String,int,java.lang.String,int)]"	
+		
+RefactoringInfo 31	 "Decrease Method Visibility" applied at class DataFlowBitSet to method DataFlowBitSet(int) from package to protected	
+		
+RefactoringInfo 32	 "Remove Field" applied at class ounter to field serialVersionUID	
+		
+RefactoringInfo 33	 "Make Class Final" applied to class Block	
+		
+RefactoringInfo 34	 "Make Field Non Static" applied at class ScriptableObject to field REMOVED	
+		
+RefactoringInfo 35	 "Increase Method Visibility" applied at class NativeFunction to method jsGet_name() from public to protected	
+		
+RefactoringInfo 36	 "Make Method Non Final" applied at class RhinoException to method recordErrorOrigin(java.lang.String,int,java.lang.String,int)"	
+		
+RefactoringInfo 37	 "Make Field Non Static" applied at class XML to field serialVersionUID	
+		
+RefactoringInfo 38	 "Increase Field Visibility" applied at class Block to field DEBUG from package to private	
+		
+RefactoringInfo 39	"Make Class Final" applied to class XML	
+		
+RefactoringInfo 40	 "Make Field Non Final" applied at class UintMap to FieldDeclaration EMPTY	
+		
+RefactoringInfo 41	 "Move Method Up" applied to method getLineNumber() from EvaluatorException to RhinoException	
+		
+RefactoringInfo 42	 "Make Field Static" applied at class FileBody to field lineNumber	
+		
+RefactoringInfo 43	 "Remove Method" applied at class XMLName to method setIsDescendants()	
+		
+RefactoringInfo 44	 "Decrease Method Visibility" applied at class NativeJavaPackage to method getPkgProperty(java.lang.String,org.mozilla.javascript.Scriptable,boolean) from package to protected"	
+		
+RefactoringInfo 45	 "Make Field Static" applied at class TokenStream to field xmlIsTagContent	
+		
+RefactoringInfo 46	 "Make Field Final"" applied at class Optimizer to LocalVariableDeclaration arrayBase [in method rewriteForNumberVariables(org.mozilla.javascript.Node,int)]"	
+		
+RefactoringInfo 47	 "Decrease Method Visibility" applied at class ynamicScopes\MyFactory to method hasFeature(org.mozilla.javascript.Context,int) from protected to public"	
+		
+RefactoringInfo 48	 "Make Method Static" applied at class JavaAdapter to method execIdCall(org.mozilla.javascript.IdFunctionObject,org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])"	
+		
+RefactoringInfo 49	 "Make Method Final" applied at class Interpreter to method setEvalScriptFlag(org.mozilla.javascript.Script)	
+		
+RefactoringInfo 50	 "Decrease Method Visibility" applied at class BodyCodegen to method releaseWordLocal(short) from private to package	
+		
+RefactoringInfo 51	 "Move Field Up" applied to field number from Node\NumberNode to Node	
+		
+RefactoringInfo 52	 "Move Field Up" applied to field serialVersionUID from JavaScriptException to RhinoException	
+		
+RefactoringInfo 53	 "Make Method Final" applied at class NativeObject to method toString()
+	
+-----------------------------------------------
+
+-----------------------------------------------
+
+Finished!	
