@@ -1,0 +1,99 @@
+Refactoring Result :
+
+RefactoringInfo 1	 "Make Method Final" applied at class XPointerErrorHandler to method fatalError(java.lang.String,java.lang.String,org.apache.xerces.xni.parser.XMLParseException)"
+	
+RefactoringInfo 2	 "Make Field Non Static" applied at class Version to field fVersion
+	
+RefactoringInfo 3	 "Make Field Non Final" applied at class DeferredAttrNSImpl to FieldDeclaration serialVersionUID
+	
+RefactoringInfo 4	 "Decrease Method Visibility" applied at class HTMLCollectionImpl to method HTMLCollectionImpl(org.w3c.dom.html.HTMLElement,short) from package to protected"
+	
+RefactoringInfo 5	 "Make Class Abstract" applied to class DOMImplementationSourceImpl
+	
+RefactoringInfo 6	 "Make Method Non Static" applied at class SchemaDVFactory to method getInstance(java.lang.String)
+	
+RefactoringInfo 7	 "Make Method Final" applied at class QNameDV to method getAllowedFacets()
+	
+RefactoringInfo 8	 "Make Class Final" applied to class DeferredCommentImpl
+	
+RefactoringInfo 9	 "Remove Class" applied to class XMLDocumentParser
+	
+RefactoringInfo 10	 "Decrease Method Visibility" applied at class XMLDocumentScannerImpl to method createContentDispatcher() from protected to public
+	
+RefactoringInfo 11	 "Move Method Down" applied to method popScope() from MultipleScopeNamespaceSupport to XIncludeNamespaceSupport
+	
+RefactoringInfo 12	 "Decrease Method Visibility" applied at class XML11NamespaceBinder to method prefixBoundToNullURI(java.lang.String,java.lang.String) from protected to public"
+	
+RefactoringInfo 13	 "Move Field Up" applied to field fSyntheticAnnotation from ElementImpl to DefaultElement
+	
+RefactoringInfo 14	 "Make Method Static" applied at class XML11DTDProcessor to method isValidNmtoken(java.lang.String)
+	
+RefactoringInfo 15	 "Decrease Method Visibility" applied at class StreamValidatorHelper to method initialize() from private to package
+	
+RefactoringInfo 16	 "Make Field Final" applied at class SchemaNamespaceSupport to LocalVariableDeclaration newSize [in method setEffectiveContext(java.lang.String[])]
+	
+RefactoringInfo 17	 "Increase Method Visibility" applied at class CharacterDataImpl to method substringData(int,int) from public to protected"
+	
+RefactoringInfo 18	 "Make Method Static" applied at class IDREFDV to method getActualValue(java.lang.String,org.apache.xerces.impl.dv.ValidationContext)"
+	
+RefactoringInfo 19	 "Make Class Non Final" applied to class RangeToken
+	
+RefactoringInfo 20	 "Make Method Final" applied at class XMLNSDocumentScannerImpl to method scanAttribute(org.apache.xerces.util.XMLAttributesImpl)
+	
+RefactoringInfo 21	 "Make Method Non Final" applied at class IdentityConstraint to method resize(org.apache.xerces.impl.xs.identity.Field[],int)"
+	
+RefactoringInfo 22	 "Decrease Method Visibility" applied at class DTDDVFactoryImpl to method createBuiltInTypes() from package to protected
+	
+RefactoringInfo 23	 "Make Field Static" applied at class XIncludeNamespaceSupport to field fValidContext
+	
+RefactoringInfo 24	 "Remove Method" applied at class CharacterDataEditAS to method canDeleteData(int,int)"
+	
+RefactoringInfo 25	 "Make Class Abstract" applied to class DefaultXMLDocumentHandler
+	
+RefactoringInfo 26	 "Decrease Method Visibility" applied at class XSDAbstractTraverser to method XSDAbstractTraverser(org.apache.xerces.impl.xs.traversers.XSDHandler,org.apache.xerces.impl.xs.traversers.XSAttributeChecker) from package to protected"
+	
+RefactoringInfo 27	 "Make Field Non Final" applied at class WMLSmallElementImpl to FieldDeclaration serialVersionUID
+	
+RefactoringInfo 28	 "Decrease Method Visibility" applied at class DeferredTextImpl to method DeferredTextImpl(org.apache.xerces.dom.DeferredDocumentImpl,int) from package to protected"
+	
+RefactoringInfo 29	 "Remove Method" applied at class PSVIElementNSImpl to method readObject(java.io.ObjectInputStream)
+	
+RefactoringInfo 30	 "Move Method Up" applied to method normalizeWhitespace(org.apache.xerces.xni.XMLString,int) from XML11DTDScannerImpl to XMLDTDScannerImpl"
+	
+RefactoringInfo 31	 "Make Field Final" applied at class HTMLUListElementImpl to ParameterDeclaration compact [in method setCompact(boolean)]
+	
+RefactoringInfo 32	 "Move Field Down" applied to field NOT_ALL_CONTEXT from XSDAbstractTraverser to XSDAbstractParticleTraverser
+	
+RefactoringInfo 33	 "Make Field Non Static" applied at class XMLErrorReporter to field PROPERTY_DEFAULTS
+	
+RefactoringInfo 34	 "Make Class Concrete" applied to class XMLGrammarParser
+	
+RefactoringInfo 35	 "Decrease Field Visibility" applied at class JAXPConstants to field JAXP_SCHEMA_LANGUAGE from package to protected
+	
+RefactoringInfo 36	 "Move Field Up" applied to field fStore from Field\Matcher to XPathMatcher
+	
+RefactoringInfo 37	 "Make Method Non Final" applied at class SchemaGrammar to method getTargetNamespace()
+	
+RefactoringInfo 38	 "Make Method Static" applied at class EntityResolver2Wrapper to method createXMLInputSource(org.xml.sax.InputSource,java.lang.String)"
+	
+RefactoringInfo 39	 "Remove Field" applied at class PSVIElementNSImpl to field serialVersionUID
+	
+RefactoringInfo 40	 "Make Field Non Static" applied at class DOMValidatorHelper to field VALIDATION_MANAGER
+	
+RefactoringInfo 41	 "Make Method Non Final" applied at class CMStateSet to method intersection(org.apache.xerces.impl.dtd.models.CMStateSet)
+	
+RefactoringInfo 42	 "Decrease Field Visibility" applied at class NamespaceSupport\Prefixes to field size from private to package
+	
+RefactoringInfo 43	 "Remove Method" applied at class Base64 to method isBase64(char)
+	
+RefactoringInfo 44	 "Make Field Non Static" applied at class XSModelImpl to field MAX_COMP_IDX
+	
+RefactoringInfo 45	 "Decrease Method Visibility" applied at class XMLEntityManager\CharacterBufferPool to method init() from private to package
+	
+RefactoringInfo 46	 "Move Method Up" applied to method getEffectiveLocalContext() from SchemaNamespaceSupport to NamespaceSupport
+				
+-----------------------------------------------
+
+-----------------------------------------------
+
+Finished!	
