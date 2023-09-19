@@ -1,0 +1,49 @@
+﻿Refactoring Result :
+
+RefactoringInfo 1	 "Increase Method Visibility" applied at class AxisSpace to method add(double,org.jfree.chart.ui.RectangleEdge) from public to protected"	
+		
+RefactoringInfo 2	 "Move Method Up" applied to method setPaint(int,java.awt.Paint) from PaintList to AbstractObjectList"	
+		
+RefactoringInfo 3	 "Decrease Method Visibility" applied at class OHLCSeriesCollection to method getX(org.jfree.data.time.RegularTimePeriod) from protected to public	
+		
+RefactoringInfo 4	 "Make Method Non Static"" applied at class ExportUtils to method writeAsJPEG(org.jfree.chart.ui.Drawable,int,int,java.io.File)"
+		
+RefactoringInfo 5	 "Make Class Concrete" applied to class Statistics	
+		
+RefactoringInfo 6	 "Make Class Final" applied to class ChartHints\Key	
+		
+RefactoringInfo 7	 "Make Field Final" applied at class BoxAndWhiskerCalculator to ParameterDeclaration values [in method calculateQ1(java.util.List)]	
+		
+RefactoringInfo 8	 "Increase Method Visibility"" applied at class AxisSpace to method add(double,org.jfree.chart.ui.RectangleEdge) from protected to package"	
+		
+RefactoringInfo 9	"Remove Method"" applied at class XYIntervalSeries to method add(double,double,double,double,double,double)"	
+		
+RefactoringInfo 10	 "Make Class Final" applied to class StandardDialScale	
+		
+RefactoringInfo 11	 "Decrease Field Visibility" applied at class LengthConstraintType to field name from private to package	
+		
+RefactoringInfo 12	 "Make Field Static" applied at class CategoryLineAnnotation to field value1	
+		
+RefactoringInfo 13	 "Increase Field Visibility" applied at class StandardDialFrame to field serialVersionUID from package to private	
+		
+RefactoringInfo 14	 "Make Method Non Static"" applied at class Range to method scale(org.jfree.data.Range,double)"	
+		
+RefactoringInfo 15	 "Increase Field Visibility" applied at class XYStepAreaRenderer to field SHAPES from public to protected
+		
+RefactoringInfo 16	 "Make Method Non Static"" applied at class ChartUtils to method getImageMap(java.lang.String,org.jfree.chart.ChartRenderingInfo,org.jfree.chart.imagemap.ToolTipTagFragmentGenerator,org.jfree.chart.imagemap.URLTagFragmentGenerator)"	
+		
+RefactoringInfo 17	 "Make Class Non Final" applied to class RectangleEdge	
+		
+RefactoringInfo 18	 "Move Method Down" applied to method fireOverlayChanged() from AbstractOverlay to CrosshairOverlay	
+		
+RefactoringInfo 19	 "Make Field Static" applied at class LineFunction2D to field a	
+		
+RefactoringInfo 20	 "Make Field Final" applied at class BlockContainer to LocalVariableDeclaration block [in method draw(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.lang.Object)]"	
+		
+
+
+-----------------------------------------------
+
+-----------------------------------------------
+
+Finished!
