@@ -1,0 +1,113 @@
+﻿Refactoring Result :
+
+RefactoringInfo 1	 "Make Method Static" applied at class StringResource to method getName()
+	
+RefactoringInfo 2	 "Make Method Static" applied at class Specification to method isCompatible(org.apache.tools.ant.util.DeweyDecimal,org.apache.tools.ant.util.DeweyDecimal)"
+	
+RefactoringInfo 3	 "Make Class Final" applied to class ErrorInQuitException
+	
+RefactoringInfo 4	 "Remove Class" applied to class Taskdef
+	
+RefactoringInfo 5	 "Make Field Non Static" applied at class DiagnosticsTask to field ARGS
+	
+RefactoringInfo 6	 "Make Field Non Static" applied at class Comparison to field GREATER_INDEX
+	
+RefactoringInfo 7	 "Remove Field" applied at class MSVSSConstants to field VALUE_YES
+	
+RefactoringInfo 8	 "Remove Method" applied at class JavaCC to method setBuildtokenmanager(boolean)
+	
+RefactoringInfo 9	 "Move Field Down" applied to field filesets from Copy to Move
+	
+RefactoringInfo 10	 "Make Class Final" applied to class JJDoc
+	
+RefactoringInfo 11	 "Remove Class" applied to class ScriptRunner
+	
+RefactoringInfo 12	 "Decrease Method Visibility" applied at class Archives to method dieOnCircularReference(java.util.Stack,org.apache.tools.ant.Project) from protected to public"
+	
+RefactoringInfo 13	 "Move Method Down" applied to method setMaxmemory(java.lang.String) from AbstractJarSignerTask to SignJar
+	
+RefactoringInfo 14	 "Remove Field" applied at class JonasHotDeploymentTool to field DEFAULT_ORB
+	
+RefactoringInfo 15	 "Move Method Up" applied to method setFile(java.io.File) from AbstractAccessTask to ExecuteOn
+	
+RefactoringInfo 16	 "Move Field Down" applied to field COMMAND_MKDIR from ClearCase to CCMkdir
+	
+RefactoringInfo 17	 "Make Field Static" applied at class Mkdir to field dir
+	
+RefactoringInfo 18	 "Increase Method Visibility" applied at class StreamPumper to method isFinished() from public to protected
+	
+RefactoringInfo 19	 "Make Method Final" applied at class P4Have to method execute()
+	
+RefactoringInfo 20	 "Move Method Up" applied to method setUribase(java.io.File) from JspC to MatchingTask
+	
+RefactoringInfo 21	 "Make Field Non Static" applied at class ExtensionPoint to field NO_CHILDREN_ALLOWED
+	
+RefactoringInfo 22	 "Make Field Static" applied at class AbstractUnicodeExtraField to field unicodeName
+	
+RefactoringInfo 23	 "Make Class Concrete" applied to class P4Base
+	
+RefactoringInfo 24	 "Make Class Abstract" applied to class FileTokenizer
+	
+RefactoringInfo 25	 "Remove Field" applied at class Comparison to field NOT_EQUAL
+	
+RefactoringInfo 26	 "Make Class Final" applied to class JspC
+	
+RefactoringInfo 27	 "Make Class Non Final" applied to class Compatibility
+	
+RefactoringInfo 28	 "Decrease Field Visibility" applied at class Log4jListener to field initialized from private to package
+	
+RefactoringInfo 29	 "Make Method Non Static" applied at class RecorderEntry to method formatTime(long)
+	
+RefactoringInfo 30	 "Move Field Up" applied to field FLAG_ELTYPE from CCMkelem to ClearCase
+	
+RefactoringInfo 31	 "Decrease Field Visibility" applied at class WhichResource to field classpath from private to package
+	
+RefactoringInfo 32	 "Make Class Concrete" applied to class Task
+	
+RefactoringInfo 33	 "Make Method Non Final" applied at class LoadProperties to method setSrcFile(java.io.File)
+	
+RefactoringInfo 34	 "Decrease Method Visibility" applied at class Redirector to method handleInput(byte[],int,int) from protected to public"
+	
+RefactoringInfo 35	 "Increase Method Visibility" applied at class RegularExpression to method getRef(org.apache.tools.ant.Project) from public to protected
+	
+RefactoringInfo 36	 "Make Class Final" applied to class Http
+	
+RefactoringInfo 37	 "Decrease Method Visibility" applied at class AsiExtraField to method getMode(int) from protected to public
+	
+RefactoringInfo 38	 "Make Method Final" applied at class XMLCatalog to method resolveEntity(java.lang.String,java.lang.String)"
+	
+RefactoringInfo 39	 "Remove Class" applied to class StringInputStream
+	
+RefactoringInfo 40	 "Make Field Non Final" applied at class VectorSet to FieldDeclaration set
+	
+RefactoringInfo 41	 "Move Method Up" applied to method getCheckedRef(org.apache.tools.ant.Project) from ArchiveFileSet to FileSet
+	
+RefactoringInfo 42	 "Decrease Method Visibility" applied at class IsLastModified to method validate() from protected to public
+	
+RefactoringInfo 43	 "Decrease Field Visibility" applied at class ClassFile to field constantPool from private to package
+	
+RefactoringInfo 44	 "Remove Field" applied at class MSVSSConstants to field VALUE_NO
+	
+RefactoringInfo 45	 "Make Class Final" applied to class TokenizedPattern
+	
+RefactoringInfo 46	 "Make Class Non Final" applied to class Diagnostics
+	
+RefactoringInfo 47	 "Increase Method Visibility" applied at class CCCheckout to method setReserved(boolean) from public to protected
+	
+RefactoringInfo 48	 "Make Class Final" applied to class MappedResource
+	
+RefactoringInfo 49	 "Make Class Non Final" applied to class SelectorUtils
+	
+RefactoringInfo 50	 "Move Method Up" applied to method setSrcFile(java.io.File) from LoadFile to LoadResource
+	
+RefactoringInfo 51	 "Increase Field Visibility" applied at class DateUtils to field DATE_HEADER_FORMAT from public to protected
+	
+RefactoringInfo 52	 "Make Class Abstract" applied to class XMLFragment
+	
+RefactoringInfo 53	 "Move Field Up" applied to field srcIsFirst from ExecuteOn to ExecTask
+			
+-----------------------------------------------
+
+-----------------------------------------------
+
+Finished!
